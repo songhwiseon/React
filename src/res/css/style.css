@@ -1,0 +1,12 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: skyblue;
+    color: blue;
+    box-sizing: border-box;
+    height: 60px;
+}
+
